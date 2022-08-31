@@ -124,3 +124,5 @@ export default function LotteryEntrance() {
         </div>
     )
 }
+
+//Finished product
